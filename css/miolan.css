@@ -1,0 +1,33 @@
+/* Global Styles */
+.services,.colaboradores
+{
+  background: #BF1E2D ;
+}
+
+.colaboradores > h1,h2,h3,h4,h5,h6
+{
+	color:#FFF ;
+}
+
+ #potofolioHeader{
+	color: black;
+}
+
+#mapa
+{
+	min-height: 450px;
+}
+.img-focus:hover
+{
+	opacity: 0.8;
+}
+.form-control:focus {
+border-color: #FF6666;
+-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(230, 0, 0, .6);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255, 0, 0, .6);
+}
+
+@media (max-width: 768px){
+.map {
+	height: auto;
+}}
