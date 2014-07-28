@@ -58,7 +58,7 @@ body {
 }
 .nav > ul > li.active a{
 	color: #ffffff;
-	background: #1bbc9b;
+	background: #BF1E2D;
 }
 .nav > ul > li > a {
 	font-family: 'Lato', sans-serif;
@@ -74,7 +74,7 @@ body {
 }
 .nav > ul > li > a:hover {
 	color: #ffffff;
-	background: #1bbc9b;
+	background: #BF1E2D;
 }
 /************end-nav***********/
 /* start slider */
@@ -106,7 +106,7 @@ body {
 	line-height: 1.4em;
 }
 .da-slide .da-link {
-	background-color: #1BBC9B;
+	background-color: #BF1E2D;
 	display: block;
 	color: #FFF;
 	font-size: 1em;
@@ -140,13 +140,13 @@ body {
 }
 /* start main_btm */
 .container h2{
-	color:#4D4D4D;
+	color:#FFF;
 	font-size: 2em;
 	padding-bottom: 0.5em;
 	text-align: center;
 }
 .container p{
-	color:#444444;
+	color:#FFF;
 	font-size: 1em;
 	padding-bottom: 1em;
 	text-align: center;
@@ -184,17 +184,17 @@ body {
 	padding: 10px 30px;
 	text-decoration: none;
 	color: #fff;
-	background:#1BBC9B;
+	background:#BF1E2D;
 	cursor: pointer;
 	text-transform:uppercase;
 	font-weight: 600;
 }
 #filters li span:hover
 {
-	background:#01CAA1;
+	background:#000;
 }
 #filters li span.active {
-	background:#1BBC9B;
+	background:#BF1E2D;
 	color:#fff;
 }
 #portfoliolist .portfolio {
@@ -259,7 +259,7 @@ body {
 }
 .about
 {
-	background: #1BBC9B;
+	background: #BF1E2D;
 	text-align:center;
 	padding: 5em 0em;
 }
@@ -415,8 +415,8 @@ body {
 	font-family: 'Lato', sans-serif;
 	color:#fff;
 	padding: 0.8em 1.5em;
-	background: #1BBC9B;
-	border:1px solid #1BBC9B;
+	background: #BF1E2D;
+	border:1px solid #BF1E2D;
 	display: block;
 	-webkit-transition: all 0.3s ease-out;
 	-moz-transition: all 0.3s ease-out;
@@ -467,7 +467,7 @@ body {
 	color: #FFF;
 }
 .copy p a:hover {
-	color: #1BBC9B;
+	color: #BF1E2D;
 }
 #toTop {
 	display: none;
