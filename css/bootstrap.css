@@ -294,7 +294,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #BF1E2D;
   text-decoration: underline;
 }
 a:focus {
@@ -2301,7 +2301,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #2a6496;
+  color: #BF1E2D;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -2866,7 +2866,7 @@ input[type="button"].btn-block {
 .glyphicon-collapse-up:before {
   content: "\e160";
 }
-.glyphicon-log-in:before {
+.glyphicon-pop_up-in:before {
   content: "\e161";
 }
 .glyphicon-flash:before {
@@ -4168,7 +4168,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-  color: #2a6496;
+  color: #BF1E2D;
   background-color: #eee;
   border-color: #ddd;
 }

@@ -13,33 +13,39 @@
 }
 
 .ch-img-1 { 
-	background-image: url(../images/icon1.png);
+	background-image: url(../images/boda.png);
 }
 
 .ch-img-2 { 
-	background-image: url(../images/icon2.png) ;
+	background-image: url(../images/comercial.png) ;
 }
 
 .ch-img-3 { 
-	background-image: url(../images/icon3.png);
+	background-image: url(../images/traba.png);
 }
 .ch-img-4 { 
-	background-image: url(../images/icon4.png);
+	background-image: url(../images/modelo.png);
 }
 
 .ch-img-5{ 
-	background-image: url(../images/icon5.png) ;
+	background-image: url(../images/modelo2.png) ;
 }
 
 .ch-img-6 { 
-	background-image: url(../images/icon6.png);
+	background-image: url(../images/boda2.png);
 }
 .ch-img-7 { 
-	background-image: url(../images/icon1.png);
+	background-image: url(../images/jesica.png);
 }
 
 .ch-img-8 { 
-	background-image: url(../images/icon2.png) ;
+	background-image: url(../images/techo.png) ;
+}
+.ch-img-9 { 
+	background-image: url(../images/pastor.png) ;
+}
+.ch-img-10 { 
+	background-image: url(../images/comer.png) ;
 }
 
 
