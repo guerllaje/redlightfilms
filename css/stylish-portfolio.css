@@ -162,6 +162,17 @@ i.service-icon {
   -o-background-size: cover;
   background-size: cover;
 }
+.callout2 {
+  color: #ffffff;
+  display: table;
+  height: 400px;
+  width: 100%;
+  background: url(../img/segundo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 /* Portfolio */
 
