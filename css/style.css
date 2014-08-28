@@ -154,6 +154,7 @@ body {
 .main_btm {
 	margin-top: 4%;
 	display: block;
+	 overflow-x: hidden;
 }
 /*---start-gallery-----*/
 .gallery{
@@ -544,7 +545,7 @@ body {
 	width:80%;
 }
 #filters {
-	width: 65%;
+	width: 35%;
 }
 #portfoliolist .portfolio {
 	width: 20%;
